@@ -12,5 +12,4 @@ public class TreinamentoSpringMVCApplication {
 		new SpringApplication(TreinamentoSpringMVCApplication.class).run(args);
 	}
 
-	
 }
